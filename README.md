@@ -127,14 +127,6 @@ plt.savefig('movies_tv_shows_comparison.png')
 plt.show()
 ```
 
-## How to Run
-1. Place `netflix_titles.csv` in the working directory.
-2. Run the script:
-   ```bash
-   python analysis.py
-   ```
-3. View the generated plots in the output directory.
-
 ## Conclusion
 This analysis provides valuable insights into Netflix’s content trends, distribution, and growth over the years.
 
